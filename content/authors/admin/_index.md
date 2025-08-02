@@ -60,6 +60,12 @@ education:
     date_start: 2013-08-01
     date_end: 2017-05-01
 work:
+  - position: Research Intern
+    company_name: IBM Research
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-06-16
+    date_end: 2025-09-05
   - position: Research Assistant
     company_name: Northwestern University
     company_url: ''

@@ -44,6 +44,8 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
+        - **June 2025:** I'm excited to be starting an internship at IBM Research for the summer working on LLMs for data research.
+        - **November 2024:** I presented the <a href="https://arxiv.org/abs/2406.12069">Satyrn paper</a> at <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
         - **September 2024:** Our paper <a href="https://arxiv.org/abs/2406.12069">Satyrn: A Platform for Analytics Augmented Generation</a> was just accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>. See you in Miami!
         - **June 2024**: I partcipated in the CASMI workshop "AI Safety: A Domain-Focused Approach to Anticipating Harm." <a href="https://casmi.northwestern.edu/documents/ai-safety-a-domain-focused-approach-to-anticipating-harm.pdf">Read the full report</a>.
         - **July 2023**: I participated in the CASMI workshop on "<a href="https://casmi.northwestern.edu/news/articles/2023/measuring-safety-in-artificial-intelligence-positionality-matters.html">Sociotechnical Approaches to Measurement and Validation for Safety in AI</a>."
