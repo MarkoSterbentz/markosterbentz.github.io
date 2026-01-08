@@ -1,5 +1,5 @@
 ---
-title: RingSQL - Synthetic Data Generation for Text-to-SQL
+title: Critical Resource Exchange
 date: 2020-04-02
 external_link: https://www.mccormick.northwestern.edu/news/articles/2020/04/emergency-resource-exchange-connects-healthcare-providers-to-COVID-19-medical-supplies.html
 tags:
