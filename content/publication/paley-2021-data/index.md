@@ -1,6 +1,5 @@
 ---
-title: 'From data to information: automating data science to explore the US court
-  system'
+title: 'From Data to Information: Automating Data Science to Explore the US Court System'
 authors:
 - Andrew Paley
 - Andong L Li Zhao
@@ -12,11 +11,18 @@ authors:
 - David Schwartz
 - Cameron Barrie
 - Alexander Einarsson
-- ' others'
+- Kristian J. Hammond
 date: '2021-01-01'
 publishDate: '2024-09-20T20:04:44.729349Z'
+
 publication_types:
 - paper-conference
-publication: '*Proceedings of the Eighteenth International Conference on Artificial
-  Intelligence and Law*'
+publication: '*Proceedings of the Eighteenth International Conference on Artificial Intelligence and Law (ICAIL)*'
+publication_short: '*ICAIL*'
+
+links:
+- name: Paper
+  url: https://dl.acm.org/doi/pdf/10.1145/3462757.3466100
+- name: GitHub
+  url: https://github.com/nu-c3lab/scales-ux
 ---
