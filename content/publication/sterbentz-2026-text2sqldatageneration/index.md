@@ -18,7 +18,7 @@ publication_types:
 - manuscript
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2406.12069
+  url: https://arxiv.org/abs/2601.05451
 - name: GitHub
   url: https://github.com/nu-c3lab/RingSQL
 ---

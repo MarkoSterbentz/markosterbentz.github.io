@@ -1,7 +1,7 @@
 ---
 title: RingSQL - Synthetic Data Generation for Text-to-SQL
 date: 2026-01-07
-external_link: https://github.com/nu-c3lab/RingSQL
+external_link: https://arxiv.org/abs/2601.05451
 tags:
   - Text-to-SQL
   - Reinforcement Learning

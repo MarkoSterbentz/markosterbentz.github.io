@@ -44,15 +44,29 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
+        - **January 2026:** The preprint for our paper on generating high quality synthetic training data for text-to-SQL is <a href="https://arxiv.org/abs/2601.05451">available on arXiv</a>.
+        - **September 2025:** I finished my internship at IBM Research. Thank you to my mentors Michael Glass, Nhan Pham, and Shankar Subramanian for an excellent summer of research!
         - **June 2025:** I'm excited to be starting an internship at IBM Research for the summer working on LLMs for data research.
         - **November 2024:** I presented the <a href="https://arxiv.org/abs/2406.12069">Satyrn paper</a> at <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
         - **September 2024:** Our paper <a href="https://arxiv.org/abs/2406.12069">Satyrn: A Platform for Analytics Augmented Generation</a> was just accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>. See you in Miami!
         - **June 2024**: I partcipated in the CASMI workshop "AI Safety: A Domain-Focused Approach to Anticipating Harm." <a href="https://casmi.northwestern.edu/documents/ai-safety-a-domain-focused-approach-to-anticipating-harm.pdf">Read the full report</a>.
-        - **July 2023**: I participated in the CASMI workshop on "<a href="https://casmi.northwestern.edu/news/articles/2023/measuring-safety-in-artificial-intelligence-positionality-matters.html">Sociotechnical Approaches to Measurement and Validation for Safety in AI</a>."
-        - **June 2023**: Attended <a href="https://facctconference.org/2023/">FAccT 2023</a>! Here's an <a href="https://casmi.northwestern.edu/news/articles/2023/ai-ethics-debate-at-chicago-conference,-precursor-to-casmis-next-workshop.html">article which includes some of my and my colleagues' thoughts</a>.
-        - **June 2023**: Cameron Barrie and I gave a demonstration of our research at the "Exploring Opportunities at the Intersection of Healthcare and AI" event. <a href="https://ai.northwestern.edu/news-events/articles/2023/using-ai-chatgpt-to-augment-the-future-of-healthcare.html">Read more here</a>!
     design:
       columns: '1'
+  # - block: markdown
+  #   id: news
+  #   content:
+  #     title: 'Old News'
+  #     subtitle: ''
+  #     text: |-
+  #       - **June 2025:** I'm excited to be starting an internship at IBM Research for the summer working on LLMs for data research.
+  #       - **November 2024:** I presented the <a href="https://arxiv.org/abs/2406.12069">Satyrn paper</a> at <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
+  #       - **September 2024:** Our paper <a href="https://arxiv.org/abs/2406.12069">Satyrn: A Platform for Analytics Augmented Generation</a> was just accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>. See you in Miami!
+  #       - **June 2024**: I partcipated in the CASMI workshop "AI Safety: A Domain-Focused Approach to Anticipating Harm." <a href="https://casmi.northwestern.edu/documents/ai-safety-a-domain-focused-approach-to-anticipating-harm.pdf">Read the full report</a>.
+  #       - **July 2023**: I participated in the CASMI workshop on "<a href="https://casmi.northwestern.edu/news/articles/2023/measuring-safety-in-artificial-intelligence-positionality-matters.html">Sociotechnical Approaches to Measurement and Validation for Safety in AI</a>."
+  #       - **June 2023**: Attended <a href="https://facctconference.org/2023/">FAccT 2023</a>! Here's an <a href="https://casmi.northwestern.edu/news/articles/2023/ai-ethics-debate-at-chicago-conference,-precursor-to-casmis-next-workshop.html">article which includes some of my and my colleagues' thoughts</a>.
+  #       - **June 2023**: Cameron Barrie and I gave a demonstration of our research at the "Exploring Opportunities at the Intersection of Healthcare and AI" event. <a href="https://ai.northwestern.edu/news-events/articles/2023/using-ai-chatgpt-to-augment-the-future-of-healthcare.html">Read more here</a>!
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: papers
   #   content:
