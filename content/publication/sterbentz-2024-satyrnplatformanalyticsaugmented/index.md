@@ -8,20 +8,20 @@ authors:
 - Donna Hooshmand
 - Harper Pack
 - Kristian J. Hammond
-date: '2024-01-01'
-publishDate: '2024-09-20T20:04:44.745876Z'
+date: '2024-11-01'
+publishDate: '2024-11-01T20:04:44.745876Z'
 
 # Display this page in the Featured widget?
 featured: false
 
-publication: To appear at *EMNLP 2024 (Main)*
-publication_short: To appear at *EMNLP 2024 (Main)*
+publication: '*EMNLP 2024 (Main)*'
+publication_short: '*EMNLP 2024 (Main)*'
 
 publication_types:
 - manuscript
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2406.12069
-- name: URL
-  url: https://arxiv.org/abs/2406.12069
+- name: Paper
+  url: url: https://aclanthology.org/2024.emnlp-main.365/
+- name: GitHub
+  url: https://github.com/nu-c3lab/satyrn/
 ---
