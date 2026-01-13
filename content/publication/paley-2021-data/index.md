@@ -17,8 +17,7 @@ publishDate: '2024-09-20T20:04:44.729349Z'
 
 publication_types:
 - paper-conference
-publication: '*Proceedings of the Eighteenth International Conference on Artificial Intelligence and Law (ICAIL)*'
-publication_short: '*ICAIL*'
+publication: '*Proceedings of the Eighteenth International Conference on Artificial Intelligence and Law (ICAIL 2021)*'
 
 links:
 - name: Paper

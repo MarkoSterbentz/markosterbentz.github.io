@@ -14,8 +14,7 @@ publishDate: '2024-11-01T20:04:44.745876Z'
 # Display this page in the Featured widget?
 featured: false
 
-publication: '*EMNLP 2024 (Main)*'
-publication_short: '*EMNLP 2024 (Main)*'
+publication: '*Empirical Methods in Natural Language Processing 2024 (EMNLP 2024 Main)*'
 
 publication_types:
 - manuscript
