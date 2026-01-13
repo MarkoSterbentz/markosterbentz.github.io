@@ -17,7 +17,7 @@ publication_short: Preprint
 publication_types:
 - manuscript
 links:
-- name: arXiv
+- name: Paper
   url: https://arxiv.org/abs/2601.05451
 - name: GitHub
   url: https://github.com/nu-c3lab/RingSQL

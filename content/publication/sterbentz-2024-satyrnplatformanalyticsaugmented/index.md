@@ -21,7 +21,7 @@ publication_types:
 - manuscript
 links:
 - name: Paper
-  url: url: https://aclanthology.org/2024.emnlp-main.365/
+  url: https://aclanthology.org/2024.emnlp-main.365/
 - name: GitHub
   url: https://github.com/nu-c3lab/satyrn/
 ---
