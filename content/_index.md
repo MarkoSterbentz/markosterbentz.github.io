@@ -44,12 +44,12 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
+        - **May 2026:** Our paper "Mixed-Policy GRPO for Text-to-SQL with Off-Policy Data Generation" was accepted to the <a href="https://surgellm.github.io/acl2026/">SURGeLLM workshop @ ACL 2026</a> and was selected for an oral presentation! See you in San Diego!
         - **January 2026:** The preprint for our paper on generating high quality synthetic training data for text-to-SQL is <a href="https://arxiv.org/abs/2601.05451">available on arXiv</a>.
         - **September 2025:** I finished my internship at IBM Research. Thank you to my mentors Michael Glass, Nhan Pham, and Shankar Subramanian for an excellent summer of research!
         - **June 2025:** I'm excited to be starting an internship at IBM Research for the summer working on LLMs for data research.
         - **November 2024:** I presented the <a href="https://arxiv.org/abs/2406.12069">Satyrn paper</a> at <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
         - **September 2024:** Our paper <a href="https://arxiv.org/abs/2406.12069">Satyrn: A Platform for Analytics Augmented Generation</a> was just accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>. See you in Miami!
-        - **June 2024**: I partcipated in the CASMI workshop "AI Safety: A Domain-Focused Approach to Anticipating Harm." <a href="https://casmi.northwestern.edu/documents/ai-safety-a-domain-focused-approach-to-anticipating-harm.pdf">Read the full report</a>.
     design:
       columns: '1'
   # - block: markdown
