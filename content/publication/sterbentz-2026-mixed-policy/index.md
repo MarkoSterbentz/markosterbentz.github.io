@@ -11,6 +11,6 @@ publishDate: '2024-09-20T20:04:44.738941Z'
 
 publication_types:
 - paper-conference
-publication: '*Proceedings of the Workshop on Structured Understanding, Retrieval, and Generation in the LLM Era (SURGeLLM)*'
+publication: '*Proceedings of the Workshop on Structured Understanding, Retrieval, and Generation in the LLM Era (SURGeLLM @ ACL 2026)*'
 
 ---

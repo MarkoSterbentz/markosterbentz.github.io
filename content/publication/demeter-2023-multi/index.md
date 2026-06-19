@@ -14,7 +14,7 @@ publishDate: '2024-09-20T20:04:44.738941Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Third Workshop on Natural Language Generation, Evaluation,
-  and Metrics (GEM)*'
+  and Metrics (GEM @ EMNLP 2023)*'
 
 links:
 - name: Paper
