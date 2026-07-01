@@ -44,7 +44,7 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
-        - **May 2026:** Our paper "Mixed-Policy GRPO for Text-to-SQL with Off-Policy Data Generation" was accepted to the <a href="https://surgellm.github.io/acl2026/">SURGeLLM workshop @ ACL 2026</a> and was selected for an oral presentation! See you in San Diego!
+        - **May 2026:** Our paper <a href="https://aclanthology.org/2026.surgellm-1.20/">Mixed-Policy GRPO for Text-to-SQL with Off-Policy Data Generation</a> was accepted to the <a href="https://surgellm.github.io/acl2026/">SURGeLLM workshop @ ACL 2026</a> and was selected for an oral presentation! See you in San Diego!
         - **January 2026:** The preprint for our paper on generating high quality synthetic training data for text-to-SQL is <a href="https://arxiv.org/abs/2601.05451">available on arXiv</a>.
         - **September 2025:** I finished my internship at IBM Research. Thank you to my mentors Michael Glass, Nhan Pham, and Shankar Subramanian for an excellent summer of research!
         - **June 2025:** I'm excited to be starting an internship at IBM Research for the summer working on LLMs for data research.
