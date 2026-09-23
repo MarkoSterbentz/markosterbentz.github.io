@@ -1,12 +1,12 @@
 ---
-title: 'RingSQL: Generating Synthetic Data with Schema-Independent Templates for Text-to-SQL Reasoning Models'
+title: 'RingSQL: Schema-Independent Synthetic Data Generation for Text-to-SQL Reinforcement Learning'
 authors:
 - Marko Sterbentz
 - Kevin Cushing
 - Cameron Barrie
 - Kristian J. Hammond
-date: '2026-01-09'
-publishDate: '2026-01-09T20:04:44.745876Z'
+date: '2026-08-04'
+publishDate: '2026-08-04T20:04:44.745876Z'
 
 # Display this page in the Featured widget?
 featured: false
