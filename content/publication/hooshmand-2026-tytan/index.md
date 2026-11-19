@@ -14,7 +14,7 @@ publishDate: '2026-08-06T20:04:44.745876Z'
 # Display this page in the Featured widget?
 featured: false
 
-publication: Preprint
+publication: Preprint (Under Review)
 publication_short: Preprint
 
 publication_types:

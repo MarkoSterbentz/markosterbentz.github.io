@@ -5,14 +5,13 @@ authors:
 - Kevin Cushing
 - Cameron Barrie
 - Kristian J. Hammond
-date: '2026-08-04'
+date: '2027-03-09'
 publishDate: '2026-08-04T20:04:44.745876Z'
 
 # Display this page in the Featured widget?
 featured: false
 
-publication: Preprint
-publication_short: Preprint
+publication: '*20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027 Findings)*'
 
 publication_types:
 - manuscript
